@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\bin\Debug\LottoTicket.exe.config
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\bin\Debug\LottoTicket.exe
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\bin\Debug\LottoTicket.pdb
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\MainWindow.g.cs
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\App.g.cs
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket_MarkupCompile.cache
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket_MarkupCompile.lref
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\MainWindow.baml
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket.g.resources
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket.Properties.Resources.resources
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket.exe
+C:\Users\dell\source\repos\LottoTicket\LottoTicket\obj\Debug\LottoTicket.pdb

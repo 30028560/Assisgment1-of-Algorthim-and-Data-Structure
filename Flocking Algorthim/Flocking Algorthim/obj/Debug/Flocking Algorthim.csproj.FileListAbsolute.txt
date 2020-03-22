@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\MainWindow.g.cs
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\App.g.cs
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim_MarkupCompile.cache
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim_MarkupCompile.lref
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\bin\Debug\Flocking Algorthim.exe.config
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\bin\Debug\Flocking Algorthim.exe
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\bin\Debug\Flocking Algorthim.pdb
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\MainWindow.baml
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim.g.resources
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking_Algorthim.Properties.Resources.resources
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim.exe
+C:\Users\dell\source\repos\Flocking Algorthim\Flocking Algorthim\obj\Debug\Flocking Algorthim.pdb

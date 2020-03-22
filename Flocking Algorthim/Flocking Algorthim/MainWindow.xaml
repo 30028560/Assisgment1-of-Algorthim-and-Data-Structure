@@ -1,0 +1,27 @@
+﻿<Window x:Name="TestWindow" x:Class="Flocking_Algorthim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flocking_Algorthim"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="TestGrid" Width="800" Height="450"  >
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/sea.png"/>
+        </Grid.Background>
+        <Image x:Name="testImage1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Margin="346,134,0,0"  Width="40" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,234,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage3" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,236,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,238,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage5" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,240,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage6" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,242,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage7" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,244,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage8" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,246,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage9" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,248,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage10" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Margin="446,250,0,0"  Width="20" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage11" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="500,134,0,0"  Width="30" Source="Images/Picture1.png" Stretch="Fill" />
+        <Image x:Name="testImage12" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="656,234,0,0"  Width="30" Source="Images/Picture1.png" Stretch="Fill" />
+
+    </Grid>
+</Window>
